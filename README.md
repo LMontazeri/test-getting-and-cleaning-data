@@ -1,8 +1,6 @@
 # test-getting-and-cleaning-data
 this assignment performed based on instruction provided by Coursera as course project.
-
 It is related to manipulation of data collected from the accelerometers from the Samsung Galaxy S smartphone.
-
 The R script "run_analysis.R" consists of five steps based on the instruction and as follow:
 
 Download and reading the files
